@@ -7,7 +7,7 @@ Java based GuI Application built using Java swing in Netbeans IDE, Windows 11 fo
 2.) Setting up environment variable for JAVA
 
 # How to launch the app?
-1.) Download this repository in ZIP format.
-2.) Extract the ZIP file.
-3.) Look into "dist" folder and you can find "ToDoList.jar".
+1.) Download this repository in ZIP format. <br>
+2.) Extract the ZIP file. <br>
+3.) Look into "dist" folder and you can find "ToDoList.jar".<br>
 4.) Simply double click on the "ToDoList.jar" to launch the application.
